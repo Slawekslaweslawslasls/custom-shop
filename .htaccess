@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^(.*)\.html$ $1.php [nc]
+RewriteRule ^/?(eu|pl|us|en|de)/blog/(.*)$ blog.php?subject=$2&lang=$1 [nc]
+RewriteRule ^blog/(.*)$ blog.php?subject=$1 [nc]
+RewriteCond %{THE_REQUEST} "^[^ ]* .*?\.php[? ].*$"
+RewriteRule .* - [L,R=404]
+RewriteCond %{THE_REQUEST} !HTTP/(0\.9|1\.[01])$
+RewriteRule .* - [F]
+RewriteRule ^/?(eu|pl|us|en)/?$ /index.php?lang=$1 [nc]
+RewriteRule ^/?(eu|pl|us|en)/(.+?)/?$ /$2/?lang=$1 [nc]
+#RewriteCond %{HTTP_HOST} !^www\. [NC]
+#RewriteRule ^(.*)$ https://www.lvadshirt.com%{REQUEST_URI} [R=301,L]
+</IfModule>

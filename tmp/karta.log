@@ -1,0 +1,3486 @@
+
+DATA: 23-11-2018 00:35:06, IP: 89.64.20.242
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 4
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4444 4444 4444 5
+Mies: 02
+Rok: 2022
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5490
+$wiersz[\'imie_zam\']: Wedf
+$wiersz[\'nazwisko_zam\']: Redf
+$wiersz[\'email_zam\']: ewgbn@gna.co
+$wiersz[\'ip_zam\']: 89.64.20.242
+$wiersz[\'adres1_zam\']: ertg
+$wiersz[\'miasto_zam\']: Rety
+$wiersz[\'kod_pocztowy_zam\']: 123456
+Wojewodztwo: lubuskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5490= Zamówienie nr 5490
+Wedf.Redf= Wedf Redf
+email= ewgbn@gna.co
+ip= 89.64.20.242
+street_house= ertg
+city= Rety
+state= lubuskie
+zip= 123456
+country_code= PL
+card_number= 4444444444445
+expiration_month= 02
+expiration_year= 2022
+name_on_card= Wert Fert
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 411, 
+Error description: Card number format is not valid.
+DATA: 23-11-2018 00:35:46, IP: 89.64.20.242
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 4
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 02
+Rok: 2020
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5490
+$wiersz[\'imie_zam\']: Wedf
+$wiersz[\'nazwisko_zam\']: Redf
+$wiersz[\'email_zam\']: ewgbn@gna.co
+$wiersz[\'ip_zam\']: 89.64.20.242
+$wiersz[\'adres1_zam\']: ertg
+$wiersz[\'miasto_zam\']: Rety
+$wiersz[\'kod_pocztowy_zam\']: 123456
+Wojewodztwo: lubuskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5490= Zamówienie nr 5490
+Wedf.Redf= Wedf Redf
+email= ewgbn@gna.co
+ip= 89.64.20.242
+street_house= ertg
+city= Rety
+state= lubuskie
+zip= 123456
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 02
+expiration_year= 2020
+name_on_card= Ertg Red
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 23-11-2018 00:42:26, IP: 89.64.20.242
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 4
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4545 5555 5554 2
+Mies: 10
+Rok: 2024
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5490
+$wiersz[\'imie_zam\']: Wedf
+$wiersz[\'nazwisko_zam\']: Redf
+$wiersz[\'email_zam\']: ewgbn@gna.co
+$wiersz[\'ip_zam\']: 89.64.20.242
+$wiersz[\'adres1_zam\']: ertg
+$wiersz[\'miasto_zam\']: Rety
+$wiersz[\'kod_pocztowy_zam\']: 123456
+Wojewodztwo: lubuskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5490= Zamówienie nr 5490
+Wedf.Redf= Wedf Redf
+email= ewgbn@gna.co
+ip= 89.64.20.242
+street_house= ertg
+city= Rety
+state= lubuskie
+zip= 123456
+country_code= PL
+card_number= 4545555555542
+expiration_month= 10
+expiration_year= 2024
+name_on_card= rtrrtrtrt
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 411, 
+Error description: Card number format is not valid.
+DATA: 23-11-2018 02:04:41, IP: 89.64.20.242
+$kwota_laczna: 76.98
+$rabat: 0
+$koszt_wysylki: 16.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 0
+
+$kraj_zam_id: 2
+$country_code: AT
+Nr karty: 3444 4444 4444 4444
+Mies: 03
+Rok: 2020
+CVV: 234
+$waluta_pp: EUR
+$tytul_zam: Order no
+$wiersz[\'id\']: 5492
+$wiersz[\'imie_zam\']: jjjrrj
+$wiersz[\'nazwisko_zam\']: jrrjrjj
+$wiersz[\'email_zam\']: jrjrj@gmail.com
+$wiersz[\'ip_zam\']: 89.64.20.242
+$wiersz[\'adres1_zam\']: rhh
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: 45678
+Wojewodztwo: none
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 76.98
+EUR= EUR
+Order no.5492= Order no 5492
+jjjrrj.jrrjrjj= jjjrrj jrrjrjj
+email= jrjrj@gmail.com
+ip= 89.64.20.242
+street_house= rhh
+city= Warszawa
+state= none
+zip= 45678
+country_code= AT
+card_number= 3444444444444444
+expiration_month= 03
+expiration_year= 2020
+name_on_card= dff ght
+card_code= 234
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 411, 
+Error description: Card number format is not valid.
+DATA: 23-11-2018 02:05:08, IP: 89.64.20.242
+$kwota_laczna: 76.98
+$rabat: 0
+$koszt_wysylki: 16.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 0
+
+$kraj_zam_id: 2
+$country_code: AT
+Nr karty: 4111 1111 1111 1111
+Mies: 08
+Rok: 2025
+CVV: 123
+$waluta_pp: EUR
+$tytul_zam: Order no
+$wiersz[\'id\']: 5492
+$wiersz[\'imie_zam\']: jjjrrj
+$wiersz[\'nazwisko_zam\']: jrrjrjj
+$wiersz[\'email_zam\']: jrjrj@gmail.com
+$wiersz[\'ip_zam\']: 89.64.20.242
+$wiersz[\'adres1_zam\']: rhh
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: 45678
+Wojewodztwo: none
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 76.98
+EUR= EUR
+Order no.5492= Order no 5492
+jjjrrj.jrrjrjj= jjjrrj jrrjrjj
+email= jrjrj@gmail.com
+ip= 89.64.20.242
+street_house= rhh
+city= Warszawa
+state= none
+zip= 45678
+country_code= AT
+card_number= 4111111111111111
+expiration_month= 08
+expiration_year= 2025
+name_on_card= wfrg
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 23-11-2018 05:53:29, IP: 89.64.20.242
+$kwota_laczna: 76.98
+$rabat: 0
+$koszt_wysylki: 16.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 0
+
+$kraj_zam_id: 2
+$country_code: AT
+Nr karty: 4111 1111 1111 1111
+Mies: 08
+Rok: 2025
+CVV: 123
+$waluta_pp: EUR
+$tytul_zam: Order no
+$wiersz[\'id\']: 5493
+$wiersz[\'imie_zam\']: jjjrrj
+$wiersz[\'nazwisko_zam\']: jrrjrjj
+$wiersz[\'email_zam\']: jrjrj@gmail.com
+$wiersz[\'ip_zam\']: 89.64.20.242
+$wiersz[\'adres1_zam\']: rhh
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: 45678
+Wojewodztwo: none
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 76.98
+EUR= EUR
+Order no.5493= Order no 5493
+jjjrrj.jrrjrjj= jjjrrj jrrjrjj
+email= jrjrj@gmail.com
+ip= 89.64.20.242
+street_house= rhh
+city= Warszawa
+state= none
+zip= 45678
+country_code= AT
+card_number= 4111111111111111
+expiration_month= 08
+expiration_year= 2025
+name_on_card= Refgt
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 23-11-2018 08:07:55, IP: 89.64.20.242
+$kwota_laczna: 519.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 1
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 01
+Rok: 2019
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5499
+$wiersz[\'imie_zam\']: jjjrrj
+$wiersz[\'nazwisko_zam\']: jrrjrjj
+$wiersz[\'email_zam\']: jrjrj@gmail.com
+$wiersz[\'ip_zam\']: 89.64.20.242
+$wiersz[\'adres1_zam\']: rff
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: 45678
+Wojewodztwo: dolnośląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 519.97
+PLN= PLN
+Zamówienie nr.5499= Zamówienie nr 5499
+jjjrrj.jrrjrjj= jjjrrj jrrjrjj
+email= jrjrj@gmail.com
+ip= 89.64.20.242
+street_house= rff
+city= Warszawa
+state= dolnośląskie
+zip= 45678
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 01
+expiration_year= 2019
+name_on_card= Fert
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 23-11-2018 15:48:50, IP: 195.187.84.66
+$kwota_laczna: 339.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 7
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 5555 5555 5555 5555
+Mies: 04
+Rok: 2020
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5500
+$wiersz[\'imie_zam\']: Michał
+$wiersz[\'nazwisko_zam\']: Jakubowski
+$wiersz[\'email_zam\']: m.jakubowski@easycall.pl
+$wiersz[\'ip_zam\']: 195.187.84.66
+$wiersz[\'adres1_zam\']: Pianistów 2
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: 02-403
+Wojewodztwo: mazowieckie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 339.97
+PLN= PLN
+Zamówienie nr.5500= Zamówienie nr 5500
+Michał.Jakubowski= Michał Jakubowski
+email= m.jakubowski@easycall.pl
+ip= 195.187.84.66
+street_house= Pianistów 2
+city= Warszawa
+state= mazowieckie
+zip= 02-403
+country_code= PL
+card_number= 5555555555555555
+expiration_month= 04
+expiration_year= 2020
+name_on_card= Michał Jakubowski
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 411, 
+Error description: Card number format is not valid.
+DATA: 23-11-2018 15:50:41, IP: 195.187.84.66
+$kwota_laczna: 339.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 7
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 04
+Rok: 2020
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5500
+$wiersz[\'imie_zam\']: Michał
+$wiersz[\'nazwisko_zam\']: Jakubowski
+$wiersz[\'email_zam\']: m.jakubowski@easycall.pl
+$wiersz[\'ip_zam\']: 195.187.84.66
+$wiersz[\'adres1_zam\']: Pianistów 2
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: 02-403
+Wojewodztwo: mazowieckie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 339.97
+PLN= PLN
+Zamówienie nr.5500= Zamówienie nr 5500
+Michał.Jakubowski= Michał Jakubowski
+email= m.jakubowski@easycall.pl
+ip= 195.187.84.66
+street_house= Pianistów 2
+city= Warszawa
+state= mazowieckie
+zip= 02-403
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 04
+expiration_year= 2020
+name_on_card= Michał Jakubowski
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 23-11-2018 17:33:37, IP: 195.187.84.66
+$kwota_laczna: 644.97
+$rabat: 124.99
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 7
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 5555 5555 5555 5555
+Mies: 03
+Rok: 2020
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5501
+$wiersz[\'imie_zam\']: Michał
+$wiersz[\'nazwisko_zam\']: Jakubowski
+$wiersz[\'email_zam\']: m.jakubowski@easycall.pl
+$wiersz[\'ip_zam\']: 195.187.84.66
+$wiersz[\'adres1_zam\']: Pianistów 2
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: 02-403
+Wojewodztwo: mazowieckie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 644.97
+PLN= PLN
+Zamówienie nr.5501= Zamówienie nr 5501
+Michał.Jakubowski= Michał Jakubowski
+email= m.jakubowski@easycall.pl
+ip= 195.187.84.66
+street_house= Pianistów 2
+city= Warszawa
+state= mazowieckie
+zip= 02-403
+country_code= PL
+card_number= 5555555555555555
+expiration_month= 03
+expiration_year= 2020
+name_on_card= Michał Jakubowski
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 411, 
+Error description: Card number format is not valid.
+DATA: 23-11-2018 17:34:35, IP: 195.187.84.66
+$kwota_laczna: 644.97
+$rabat: 124.99
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 7
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 05
+Rok: 2020
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5501
+$wiersz[\'imie_zam\']: Michał
+$wiersz[\'nazwisko_zam\']: Jakubowski
+$wiersz[\'email_zam\']: m.jakubowski@easycall.pl
+$wiersz[\'ip_zam\']: 195.187.84.66
+$wiersz[\'adres1_zam\']: Pianistów 2
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: 02-403
+Wojewodztwo: mazowieckie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 644.97
+PLN= PLN
+Zamówienie nr.5501= Zamówienie nr 5501
+Michał.Jakubowski= Michał Jakubowski
+email= m.jakubowski@easycall.pl
+ip= 195.187.84.66
+street_house= Pianistów 2
+city= Warszawa
+state= mazowieckie
+zip= 02-403
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 05
+expiration_year= 2020
+name_on_card= Michał Jakubowski
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 23-11-2018 17:37:32, IP: 195.187.84.66
+$kwota_laczna: 76.98
+$rabat: 0
+$koszt_wysylki: 16.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 0
+
+$kraj_zam_id: 2
+$country_code: AT
+Nr karty: 4111 1111 1111 1111
+Mies: 04
+Rok: 2021
+CVV: 123
+$waluta_pp: EUR
+$tytul_zam: Order no
+$wiersz[\'id\']: 5502
+$wiersz[\'imie_zam\']: Michał
+$wiersz[\'nazwisko_zam\']: Jakubowski
+$wiersz[\'email_zam\']: m.jakubowski@easycall.pl
+$wiersz[\'ip_zam\']: 195.187.84.66
+$wiersz[\'adres1_zam\']: Pianistów 2
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: 02-403
+Wojewodztwo: none
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 76.98
+EUR= EUR
+Order no.5502= Order no 5502
+Michał.Jakubowski= Michał Jakubowski
+email= m.jakubowski@easycall.pl
+ip= 195.187.84.66
+street_house= Pianistów 2
+city= Warszawa
+state= none
+zip= 02-403
+country_code= AT
+card_number= 4111111111111111
+expiration_month= 04
+expiration_year= 2021
+name_on_card= Michal Jakubowski
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 23-11-2018 17:40:03, IP: 195.187.84.66
+$kwota_laczna: 99.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 37
+
+
+$kraj_zam_id: 3
+$country_code: US
+Nr karty: 4111 1111 1111 1111
+Mies: 06
+Rok: 2021
+CVV: 123
+$waluta_pp: USD
+$tytul_zam: Order no
+$wiersz[\'id\']: 5503
+$wiersz[\'imie_zam\']: MIchał
+$wiersz[\'nazwisko_zam\']: Jakubowski
+$wiersz[\'email_zam\']: m.jakubowski@easycall.pl
+$wiersz[\'ip_zam\']: 195.187.84.66
+$wiersz[\'adres1_zam\']: Pianistów 2
+$wiersz[\'miasto_zam\']: Warsaw
+$wiersz[\'kod_pocztowy_zam\']: 02-403
+Wojewodztwo: MD
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 99.97
+USD= USD
+Order no.5503= Order no 5503
+MIchał.Jakubowski= MIchał Jakubowski
+email= m.jakubowski@easycall.pl
+ip= 195.187.84.66
+street_house= Pianistów 2
+city= Warsaw
+state= MD
+zip= 02-403
+country_code= US
+card_number= 4111111111111111
+expiration_month= 06
+expiration_year= 2021
+name_on_card= Michał Jakubowski
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 27-11-2018 10:23:56, IP: 89.64.20.242
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 15
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 09
+Rok: 2024
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5515
+$wiersz[\'imie_zam\']: jjjrrj
+$wiersz[\'nazwisko_zam\']: jrrjrjj
+$wiersz[\'email_zam\']: jrjrj@gmail.com
+$wiersz[\'ip_zam\']: 89.64.20.242
+$wiersz[\'adres1_zam\']: rff
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: Warszawa
+Wojewodztwo: wielkopolskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5515= Zamówienie nr 5515
+jjjrrj.jrrjrjj= jjjrrj jrrjrjj
+email= jrjrj@gmail.com
+ip= 89.64.20.242
+street_house= rff
+city= Warszawa
+state= wielkopolskie
+zip= Warszawa
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 09
+expiration_year= 2024
+name_on_card= fgfgf ffgfg
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 27-11-2018 11:32:04, IP: 89.64.20.242
+$kwota_laczna: 519.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 13
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 09
+Rok: 2023
+CVV: 122
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5518
+$wiersz[\'imie_zam\']: jjjrrj
+$wiersz[\'nazwisko_zam\']: jrrjrjj
+$wiersz[\'email_zam\']: jrjrj@gmail.com
+$wiersz[\'ip_zam\']: 89.64.20.242
+$wiersz[\'adres1_zam\']: rhh
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: Warszawa
+Wojewodztwo: świętokrzyskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 519.97
+PLN= PLN
+Zamówienie nr.5518= Zamówienie nr 5518
+jjjrrj.jrrjrjj= jjjrrj jrrjrjj
+email= jrjrj@gmail.com
+ip= 89.64.20.242
+street_house= rhh
+city= Warszawa
+state= świętokrzyskie
+zip= Warszawa
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 09
+expiration_year= 2023
+name_on_card= fghgg hggh
+card_code= 122
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 27-11-2018 11:32:50, IP: 89.64.20.242
+$kwota_laczna: 519.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 13
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 03
+Rok: 2018
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5518
+$wiersz[\'imie_zam\']: jjjrrj
+$wiersz[\'nazwisko_zam\']: jrrjrjj
+$wiersz[\'email_zam\']: jrjrj@gmail.com
+$wiersz[\'ip_zam\']: 89.64.20.242
+$wiersz[\'adres1_zam\']: rhh
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: Warszawa
+Wojewodztwo: świętokrzyskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 519.97
+PLN= PLN
+Zamówienie nr.5518= Zamówienie nr 5518
+jjjrrj.jrrjrjj= jjjrrj jrrjrjj
+email= jrjrj@gmail.com
+ip= 89.64.20.242
+street_house= rhh
+city= Warszawa
+state= świętokrzyskie
+zip= Warszawa
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 03
+expiration_year= 2018
+name_on_card= rfgff
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 415, 
+Error description: Card has expired.
+DATA: 27-11-2018 11:33:12, IP: 89.64.20.242
+$kwota_laczna: 519.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 13
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 111
+Mies: 01
+Rok: 2019
+CVV: 133
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5518
+$wiersz[\'imie_zam\']: jjjrrj
+$wiersz[\'nazwisko_zam\']: jrrjrjj
+$wiersz[\'email_zam\']: jrjrj@gmail.com
+$wiersz[\'ip_zam\']: 89.64.20.242
+$wiersz[\'adres1_zam\']: rhh
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: Warszawa
+Wojewodztwo: świętokrzyskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 519.97
+PLN= PLN
+Zamówienie nr.5518= Zamówienie nr 5518
+jjjrrj.jrrjrjj= jjjrrj jrrjrjj
+email= jrjrj@gmail.com
+ip= 89.64.20.242
+street_house= rhh
+city= Warszawa
+state= świętokrzyskie
+zip= Warszawa
+country_code= PL
+card_number= 411111111111111
+expiration_month= 01
+expiration_year= 2019
+name_on_card= fffghf
+card_code= 133
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 411, 
+Error description: Card number format is not valid.
+DATA: 03-12-2018 21:41:33, IP: 185.140.25.1
+$kwota_laczna: 854.94
+$rabat: 124.99
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 7
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 04
+Rok: 2022
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5519
+$wiersz[\'imie_zam\']: Michał
+$wiersz[\'nazwisko_zam\']: Jakubowski
+$wiersz[\'email_zam\']: m.jakubowski@easycall.pl
+$wiersz[\'ip_zam\']: 185.140.25.1
+$wiersz[\'adres1_zam\']: Pianistów 2
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: Warszawa
+Wojewodztwo: mazowieckie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 854.94
+PLN= PLN
+Zamówienie nr.5519= Zamówienie nr 5519
+Michał.Jakubowski= Michał Jakubowski
+email= m.jakubowski@easycall.pl
+ip= 185.140.25.1
+street_house= Pianistów 2
+city= Warszawa
+state= mazowieckie
+zip= Warszawa
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 04
+expiration_year= 2022
+name_on_card= Michał Jakubowski
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 03-12-2018 22:01:58, IP: 195.187.84.66
+$kwota_laczna: 714.96
+$rabat: 124.99
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 7
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1112
+Mies: 07
+Rok: 2022
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5519
+$wiersz[\'imie_zam\']: Michał
+$wiersz[\'nazwisko_zam\']: Jakubowski
+$wiersz[\'email_zam\']: m.jakubowski@easycall.pl
+$wiersz[\'ip_zam\']: 195.187.84.66
+$wiersz[\'adres1_zam\']: Pianistów 2
+$wiersz[\'miasto_zam\']: Warszawa
+$wiersz[\'kod_pocztowy_zam\']: Warszawa
+Wojewodztwo: mazowieckie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 714.96
+PLN= PLN
+Zamówienie nr.5519= Zamówienie nr 5519
+Michał.Jakubowski= Michał Jakubowski
+email= m.jakubowski@easycall.pl
+ip= 195.187.84.66
+street_house= Pianistów 2
+city= Warszawa
+state= mazowieckie
+zip= Warszawa
+country_code= PL
+card_number= 4111111111111112
+expiration_month= 07
+expiration_year= 2022
+name_on_card= Jan Kowalski
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 411, 
+Error description: Card number format is not valid.
+DATA: 04-12-2018 11:00:48, IP: 89.64.20.18
+$kwota_laczna: 854.94
+$rabat: 124.99
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 
+
+$kraj_zam_id: 
+$country_code: 
+Nr karty: 4111 1111 1111 1111
+Mies: 03
+Rok: 2022
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 
+$wiersz[\'imie_zam\']: 
+$wiersz[\'nazwisko_zam\']: 
+$wiersz[\'email_zam\']: 
+$wiersz[\'ip_zam\']: 
+$wiersz[\'adres1_zam\']: 
+$wiersz[\'miasto_zam\']: 
+$wiersz[\'kod_pocztowy_zam\']: 
+Wojewodztwo: none
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 854.94
+PLN= PLN
+Zamówienie nr.= Zamówienie nr 
+.=  
+email= 
+ip= 89.64.20.18
+street_house= 
+city= 
+state= none
+zip= 
+country_code= 
+card_number= 4111111111111111
+expiration_month= 03
+expiration_year= 2022
+name_on_card= reset ft
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 400, 
+Error description: Field: 'email' is not set
+DATA: 04-12-2018 11:01:45, IP: 89.64.20.18
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 
+
+$kraj_zam_id: 
+$country_code: 
+Nr karty: 4111 1111 1111 1111
+Mies: 08
+Rok: 2022
+CVV: 231
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 
+$wiersz[\'imie_zam\']: 
+$wiersz[\'nazwisko_zam\']: 
+$wiersz[\'email_zam\']: 
+$wiersz[\'ip_zam\']: 
+$wiersz[\'adres1_zam\']: 
+$wiersz[\'miasto_zam\']: 
+$wiersz[\'kod_pocztowy_zam\']: 
+Wojewodztwo: none
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.= Zamówienie nr 
+.=  
+email= 
+ip= 89.64.20.18
+street_house= 
+city= 
+state= none
+zip= 
+country_code= 
+card_number= 4111111111111111
+expiration_month= 08
+expiration_year= 2022
+name_on_card= reset
+card_code= 231
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 400, 
+Error description: Field: 'email' is not set
+DATA: 04-12-2018 11:09:11, IP: 89.64.20.18
+$kwota_laczna: 854.94
+$rabat: 124.99
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 13
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 07
+Rok: 2021
+CVV: 235
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5526
+$wiersz[\'imie_zam\']: reset
+$wiersz[\'nazwisko_zam\']: reset
+$wiersz[\'email_zam\']: reset@gn.vu
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: reset
+$wiersz[\'miasto_zam\']: reset
+$wiersz[\'kod_pocztowy_zam\']: reset
+Wojewodztwo: świętokrzyskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 854.94
+PLN= PLN
+Zamówienie nr.5526= Zamówienie nr 5526
+reset.reset= reset reset
+email= reset@gn.vu
+ip= 89.64.20.18
+street_house= reset
+city= reset
+state= świętokrzyskie
+zip= reset
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 07
+expiration_year= 2021
+name_on_card= dfff
+card_code= 235
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 04-12-2018 11:15:50, IP: 89.64.20.18
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 10
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 10
+Rok: 2024
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5527
+$wiersz[\'imie_zam\']: koniec_zamowienia
+$wiersz[\'nazwisko_zam\']: koniec_zamowienia
+$wiersz[\'email_zam\']: koniec_zamowienia@ggjjg.vol
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: koniec_zamowienia
+$wiersz[\'miasto_zam\']: koniec_zamowienia
+$wiersz[\'kod_pocztowy_zam\']: koniec_zam
+Wojewodztwo: podlaskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5527= Zamówienie nr 5527
+koniec_zamowienia.koniec_zamowienia= koniec_zamowienia koniec_zamowienia
+email= koniec_zamowienia@ggjjg.vol
+ip= 89.64.20.18
+street_house= koniec_zamowienia
+city= koniec_zamowienia
+state= podlaskie
+zip= koniec_zam
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 10
+expiration_year= 2024
+name_on_card= koniec_zamowienia
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 422, 
+Error description: Cardholder zip code is not valid.
+DATA: 04-12-2018 11:16:21, IP: 89.64.20.18
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 10
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 09
+Rok: 2026
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5527
+$wiersz[\'imie_zam\']: koniec_zamowienia
+$wiersz[\'nazwisko_zam\']: koniec_zamowienia
+$wiersz[\'email_zam\']: koniec_zamowienia@ggjjg.vol
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: koniec_zamowienia
+$wiersz[\'miasto_zam\']: koniec_zamowienia
+$wiersz[\'kod_pocztowy_zam\']: koniec_zam
+Wojewodztwo: podlaskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5527= Zamówienie nr 5527
+koniec_zamowienia.koniec_zamowienia= koniec_zamowienia koniec_zamowienia
+email= koniec_zamowienia@ggjjg.vol
+ip= 89.64.20.18
+street_house= koniec_zamowienia
+city= koniec_zamowienia
+state= podlaskie
+zip= koniec_zam
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 09
+expiration_year= 2026
+name_on_card= koniec zamowienia
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 422, 
+Error description: Cardholder zip code is not valid.
+DATA: 04-12-2018 11:17:37, IP: 89.64.20.18
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 10
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 09
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5527
+$wiersz[\'imie_zam\']: koniec_zamowienia
+$wiersz[\'nazwisko_zam\']: koniec_zamowienia
+$wiersz[\'email_zam\']: koniec_zamowienia@ggjjg.vol
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: koniec_zamowienia
+$wiersz[\'miasto_zam\']: koniec_zamowienia
+$wiersz[\'kod_pocztowy_zam\']: koniec_zam
+Wojewodztwo: podlaskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5527= Zamówienie nr 5527
+koniec_zamowienia.koniec_zamowienia= koniec_zamowienia koniec_zamowienia
+email= koniec_zamowienia@ggjjg.vol
+ip= 89.64.20.18
+street_house= koniec_zamowienia
+city= koniec_zamowienia
+state= podlaskie
+zip= koniec_zam
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 09
+expiration_year= 2023
+name_on_card= koniec zamowienia
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 422, 
+Error description: Cardholder zip code is not valid.
+DATA: 04-12-2018 11:18:47, IP: 89.64.20.18
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 10
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 08
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5527
+$wiersz[\'imie_zam\']: koniec_zamowienia
+$wiersz[\'nazwisko_zam\']: koniec_zamowienia
+$wiersz[\'email_zam\']: koniec_zamowienia@ggjjg.vol
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: koniec_zamowienia
+$wiersz[\'miasto_zam\']: koniec_zamowienia
+$wiersz[\'kod_pocztowy_zam\']: koniec_zam
+Wojewodztwo: podlaskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5527= Zamówienie nr 5527
+koniec_zamowienia.koniec_zamowienia= koniec_zamowienia koniec_zamowienia
+email= koniec_zamowienia@ggjjg.vol
+ip= 89.64.20.18
+street_house= koniec_zamowienia
+city= koniec_zamowienia
+state= podlaskie
+zip= koniec_zam
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 08
+expiration_year= 2023
+name_on_card= Fgg ggg
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 422, 
+Error description: Cardholder zip code is not valid.
+DATA: 04-12-2018 11:19:30, IP: 89.64.20.18
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 10
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 10
+Rok: 2026
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5527
+$wiersz[\'imie_zam\']: koniec_zamowienia
+$wiersz[\'nazwisko_zam\']: koniec_zamowienia
+$wiersz[\'email_zam\']: koniec_zamowienia@ggjjg.vol
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: koniec_zamowienia
+$wiersz[\'miasto_zam\']: koniec_zamowienia
+$wiersz[\'kod_pocztowy_zam\']: koniec_zam
+Wojewodztwo: podlaskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5527= Zamówienie nr 5527
+koniec_zamowienia.koniec_zamowienia= koniec_zamowienia koniec_zamowienia
+email= koniec_zamowienia@ggjjg.vol
+ip= 89.64.20.18
+street_house= koniec_zamowienia
+city= koniec_zamowienia
+state= podlaskie
+zip= koniec_zam
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 10
+expiration_year= 2026
+name_on_card= koniec_zamowienia
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 422, 
+Error description: Cardholder zip code is not valid.
+DATA: 04-12-2018 11:20:39, IP: 89.64.20.18
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 10
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 07
+Rok: 2022
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5527
+$wiersz[\'imie_zam\']: koniec_zamowienia
+$wiersz[\'nazwisko_zam\']: koniec_zamowienia
+$wiersz[\'email_zam\']: koniec_zamowienia@ggjjg.vol
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: koniec_zamowienia
+$wiersz[\'miasto_zam\']: koniec_zamowienia
+$wiersz[\'kod_pocztowy_zam\']: koniec_zam
+Wojewodztwo: podlaskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5527= Zamówienie nr 5527
+koniec_zamowienia.koniec_zamowienia= koniec_zamowienia koniec_zamowienia
+email= koniec_zamowienia@ggjjg.vol
+ip= 89.64.20.18
+street_house= koniec_zamowienia
+city= koniec_zamowienia
+state= podlaskie
+zip= koniec_zam
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 07
+expiration_year= 2022
+name_on_card= Fvgb fgg
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 422, 
+Error description: Cardholder zip code is not valid.
+DATA: 04-12-2018 11:24:25, IP: 89.64.20.18
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 03
+Rok: 2022
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5528
+$wiersz[\'imie_zam\']: koniec_zamowienia
+$wiersz[\'nazwisko_zam\']: koniec_zamowienia
+$wiersz[\'email_zam\']: koniec_zamowienia@hjn.vom
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: koniec_zamowienia
+$wiersz[\'miasto_zam\']: rgt
+$wiersz[\'kod_pocztowy_zam\']: rgt
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5528= Zamówienie nr 5528
+koniec_zamowienia.koniec_zamowienia= koniec_zamowienia koniec_zamowienia
+email= koniec_zamowienia@hjn.vom
+ip= 89.64.20.18
+street_house= koniec_zamowienia
+city= rgt
+state= śląskie
+zip= rgt
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 03
+expiration_year= 2022
+name_on_card= 4111111111111
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 417, 
+Error description: Name on card is not valid.
+DATA: 04-12-2018 11:26:57, IP: 89.64.20.18
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 08
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5528
+$wiersz[\'imie_zam\']: koniec_zamowienia
+$wiersz[\'nazwisko_zam\']: koniec_zamowienia
+$wiersz[\'email_zam\']: koniec_zamowienia@hjn.vom
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: koniec_zamowienia
+$wiersz[\'miasto_zam\']: rgt
+$wiersz[\'kod_pocztowy_zam\']: rgt
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5528= Zamówienie nr 5528
+koniec_zamowienia.koniec_zamowienia= koniec_zamowienia koniec_zamowienia
+email= koniec_zamowienia@hjn.vom
+ip= 89.64.20.18
+street_house= koniec_zamowienia
+city= rgt
+state= śląskie
+zip= rgt
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 08
+expiration_year= 2023
+name_on_card= Ghj HH
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 04-12-2018 11:28:55, IP: 89.64.20.18
+$kwota_laczna: 519.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 3
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 09
+Rok: 2024
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5529
+$wiersz[\'imie_zam\']: czas dostawy
+$wiersz[\'nazwisko_zam\']: czas dostawy
+$wiersz[\'email_zam\']: dostawy@gmk.jk
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: czas dostawy
+$wiersz[\'miasto_zam\']: czas dostawy
+$wiersz[\'kod_pocztowy_zam\']: czas dosta
+Wojewodztwo: lubelskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 519.97
+PLN= PLN
+Zamówienie nr.5529= Zamówienie nr 5529
+czas dostawy.czas dostawy= czas dostawy czas dostawy
+email= dostawy@gmk.jk
+ip= 89.64.20.18
+street_house= czas dostawy
+city= czas dostawy
+state= lubelskie
+zip= czas dosta
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 09
+expiration_year= 2024
+name_on_card= Gf VF
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 422, 
+Error description: Cardholder zip code is not valid.
+DATA: 04-12-2018 11:29:16, IP: 89.64.20.18
+$kwota_laczna: 519.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 3
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 08
+Rok: 2025
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5529
+$wiersz[\'imie_zam\']: czas dostawy
+$wiersz[\'nazwisko_zam\']: czas dostawy
+$wiersz[\'email_zam\']: dostawy@gmk.jk
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: czas dostawy
+$wiersz[\'miasto_zam\']: czas dostawy
+$wiersz[\'kod_pocztowy_zam\']: czas dosta
+Wojewodztwo: lubelskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 519.97
+PLN= PLN
+Zamówienie nr.5529= Zamówienie nr 5529
+czas dostawy.czas dostawy= czas dostawy czas dostawy
+email= dostawy@gmk.jk
+ip= 89.64.20.18
+street_house= czas dostawy
+city= czas dostawy
+state= lubelskie
+zip= czas dosta
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 08
+expiration_year= 2025
+name_on_card= Df Gf
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 422, 
+Error description: Cardholder zip code is not valid.
+DATA: 04-12-2018 15:08:42, IP: 89.64.20.18
+$kwota_laczna: 
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' rabat_kwota=, koszt_wysylki_kwota= where id=0' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 
+
+$kraj_zam_id: 
+$country_code: 
+Nr karty: 
+Mies: 
+Rok: 
+CVV: 
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 
+$wiersz[\'imie_zam\']: 
+$wiersz[\'nazwisko_zam\']: 
+$wiersz[\'email_zam\']: 
+$wiersz[\'ip_zam\']: 
+$wiersz[\'adres1_zam\']: 
+$wiersz[\'miasto_zam\']: 
+$wiersz[\'kod_pocztowy_zam\']: 
+Wojewodztwo: none
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 
+PLN= PLN
+Zamówienie nr.= Zamówienie nr 
+.=  
+email= 
+ip= 89.64.20.18
+street_house= 
+city= 
+state= none
+zip= 
+country_code= 
+card_number= 
+expiration_month= 
+expiration_year= 
+name_on_card= 
+card_code= 
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 400, 
+Error description: Field: 'amount' is not set
+DATA: 05-12-2018 11:32:00, IP: 89.64.20.18
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 02
+Rok: 2019
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5540
+$wiersz[\'imie_zam\']: John
+$wiersz[\'nazwisko_zam\']: John
+$wiersz[\'email_zam\']: John@gmail.com
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: John
+$wiersz[\'miasto_zam\']: John
+$wiersz[\'kod_pocztowy_zam\']: 123
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5540= Zamówienie nr 5540
+John.John= John John
+email= John@gmail.com
+ip= 89.64.20.18
+street_house= John
+city= John
+state= śląskie
+zip= 123
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 02
+expiration_year= 2019
+name_on_card= John Dou
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 05-12-2018 11:55:24, IP: 89.64.20.18
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 13
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 03
+Rok: 2021
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5541
+$wiersz[\'imie_zam\']: koniec_zamowienia
+$wiersz[\'nazwisko_zam\']: koniec_zamowienia
+$wiersz[\'email_zam\']: koniec_zamowienia@gh.vj
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: koniec_zamowienia
+$wiersz[\'miasto_zam\']: koniec_zamowienia
+$wiersz[\'kod_pocztowy_zam\']: 234
+Wojewodztwo: świętokrzyskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5541= Zamówienie nr 5541
+koniec_zamowienia.koniec_zamowienia= koniec_zamowienia koniec_zamowienia
+email= koniec_zamowienia@gh.vj
+ip= 89.64.20.18
+street_house= koniec_zamowienia
+city= koniec_zamowienia
+state= świętokrzyskie
+zip= 234
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 03
+expiration_year= 2021
+name_on_card= koniec zamowienia
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 05-12-2018 12:19:47, IP: 89.64.20.18
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 1
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 02
+Rok: 2019
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5542
+$wiersz[\'imie_zam\']: Pozdrawiam
+$wiersz[\'nazwisko_zam\']: Pozdrawiam
+$wiersz[\'email_zam\']: Pozdrawiam@hj.vb
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: Pozdrawiam
+$wiersz[\'miasto_zam\']: Pozdrawiam
+$wiersz[\'kod_pocztowy_zam\']: 234
+Wojewodztwo: dolnośląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5542= Zamówienie nr 5542
+Pozdrawiam.Pozdrawiam= Pozdrawiam Pozdrawiam
+email= Pozdrawiam@hj.vb
+ip= 89.64.20.18
+street_house= Pozdrawiam
+city= Pozdrawiam
+state= dolnośląskie
+zip= 234
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 02
+expiration_year= 2019
+name_on_card= Bolesława Chromrego
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 05-12-2018 12:25:39, IP: 89.64.20.18
+$kwota_laczna: 644.97
+$rabat: 124.99
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 3
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 08
+Rok: 2019
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5543
+$wiersz[\'imie_zam\']: Koszyk
+$wiersz[\'nazwisko_zam\']: Koszyk
+$wiersz[\'email_zam\']: Koszyk@ghj.l
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: Koszyk
+$wiersz[\'miasto_zam\']: Koszyk
+$wiersz[\'kod_pocztowy_zam\']: 45
+Wojewodztwo: lubelskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 644.97
+PLN= PLN
+Zamówienie nr.5543= Zamówienie nr 5543
+Koszyk.Koszyk= Koszyk Koszyk
+email= Koszyk@ghj.l
+ip= 89.64.20.18
+street_house= Koszyk
+city= Koszyk
+state= lubelskie
+zip= 45
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 08
+expiration_year= 2019
+name_on_card= Koszyk Gf
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 419, 
+Error description: Cardholder e-mail is not valid.
+DATA: 05-12-2018 12:26:05, IP: 89.64.20.18
+$kwota_laczna: 644.97
+$rabat: 124.99
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 3
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 08
+Rok: 2022
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5543
+$wiersz[\'imie_zam\']: Koszyk
+$wiersz[\'nazwisko_zam\']: Koszyk
+$wiersz[\'email_zam\']: Koszyk@ghj.l
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: Koszyk
+$wiersz[\'miasto_zam\']: Koszyk
+$wiersz[\'kod_pocztowy_zam\']: 45
+Wojewodztwo: lubelskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 644.97
+PLN= PLN
+Zamówienie nr.5543= Zamówienie nr 5543
+Koszyk.Koszyk= Koszyk Koszyk
+email= Koszyk@ghj.l
+ip= 89.64.20.18
+street_house= Koszyk
+city= Koszyk
+state= lubelskie
+zip= 45
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 08
+expiration_year= 2022
+name_on_card= Koszyk Fg
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 419, 
+Error description: Cardholder e-mail is not valid.
+DATA: 05-12-2018 12:28:20, IP: 89.64.20.18
+$kwota_laczna: 644.97
+$rabat: 124.99
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 3
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 08
+Rok: 2024
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5543
+$wiersz[\'imie_zam\']: Koszyk
+$wiersz[\'nazwisko_zam\']: Koszyk
+$wiersz[\'email_zam\']: Koszyk@ghj.lo
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: Koszyk
+$wiersz[\'miasto_zam\']: Koszyk
+$wiersz[\'kod_pocztowy_zam\']: 45
+Wojewodztwo: lubelskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 644.97
+PLN= PLN
+Zamówienie nr.5543= Zamówienie nr 5543
+Koszyk.Koszyk= Koszyk Koszyk
+email= Koszyk@ghj.lo
+ip= 89.64.20.18
+street_house= Koszyk
+city= Koszyk
+state= lubelskie
+zip= 45
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 08
+expiration_year= 2024
+name_on_card= Koszyk Gf
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 05-12-2018 13:00:28, IP: 89.64.20.18
+$kwota_laczna: 519.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 3
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 08
+Rok: 2019
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5543
+$wiersz[\'imie_zam\']: Koszyk
+$wiersz[\'nazwisko_zam\']: Koszyk
+$wiersz[\'email_zam\']: Koszyk@ghj.l
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: Koszyk
+$wiersz[\'miasto_zam\']: Koszyk
+$wiersz[\'kod_pocztowy_zam\']: 45
+Wojewodztwo: lubelskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 519.97
+PLN= PLN
+Zamówienie nr.5543= Zamówienie nr 5543
+Koszyk.Koszyk= Koszyk Koszyk
+email= Koszyk@ghj.l
+ip= 89.64.20.18
+street_house= Koszyk
+city= Koszyk
+state= lubelskie
+zip= 45
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 08
+expiration_year= 2019
+name_on_card= Гражданская Оборона
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 419, 
+Error description: Cardholder e-mail is not valid.
+DATA: 05-12-2018 13:02:40, IP: 89.64.20.18
+$kwota_laczna: 519.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 3
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 07
+Rok: 2019
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5543
+$wiersz[\'imie_zam\']: Koszyk
+$wiersz[\'nazwisko_zam\']: Koszyk
+$wiersz[\'email_zam\']: Koszyk@ghj.l
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: Koszyk
+$wiersz[\'miasto_zam\']: Koszyk
+$wiersz[\'kod_pocztowy_zam\']: 45
+Wojewodztwo: lubelskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 519.97
+PLN= PLN
+Zamówienie nr.5543= Zamówienie nr 5543
+Koszyk.Koszyk= Koszyk Koszyk
+email= Koszyk@ghj.l
+ip= 89.64.20.18
+street_house= Koszyk
+city= Koszyk
+state= lubelskie
+zip= 45
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 07
+expiration_year= 2019
+name_on_card= Гражданская Оборона - Мы идём в тишине
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 419, 
+Error description: Cardholder e-mail is not valid.
+DATA: 05-12-2018 13:03:37, IP: 89.64.20.18
+$kwota_laczna: 519.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 3
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 01
+Rok: 2019
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5543
+$wiersz[\'imie_zam\']: Koszyk
+$wiersz[\'nazwisko_zam\']: Koszyk
+$wiersz[\'email_zam\']: Koszyk@ghj.l
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: Koszyk
+$wiersz[\'miasto_zam\']: Koszyk
+$wiersz[\'kod_pocztowy_zam\']: 45
+Wojewodztwo: lubelskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 519.97
+PLN= PLN
+Zamówienie nr.5543= Zamówienie nr 5543
+Koszyk.Koszyk= Koszyk Koszyk
+email= Koszyk@ghj.l
+ip= 89.64.20.18
+street_house= Koszyk
+city= Koszyk
+state= lubelskie
+zip= 45
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 01
+expiration_year= 2019
+name_on_card= Гражданская Оборона 
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 419, 
+Error description: Cardholder e-mail is not valid.
+DATA: 05-12-2018 13:04:38, IP: 89.64.20.18
+$kwota_laczna: 519.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 3
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 01
+Rok: 2019
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5543
+$wiersz[\'imie_zam\']: Koszyk
+$wiersz[\'nazwisko_zam\']: Koszyk
+$wiersz[\'email_zam\']: Koszyk@ghj.l
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: Koszyk
+$wiersz[\'miasto_zam\']: Koszyk
+$wiersz[\'kod_pocztowy_zam\']: 45
+Wojewodztwo: lubelskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 519.97
+PLN= PLN
+Zamówienie nr.5543= Zamówienie nr 5543
+Koszyk.Koszyk= Koszyk Koszyk
+email= Koszyk@ghj.l
+ip= 89.64.20.18
+street_house= Koszyk
+city= Koszyk
+state= lubelskie
+zip= 45
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 01
+expiration_year= 2019
+name_on_card= Гражданская Оборона 
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 419, 
+Error description: Cardholder e-mail is not valid.
+DATA: 05-12-2018 13:08:04, IP: 89.64.20.18
+$kwota_laczna: 519.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 3
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1
+Mies: 07
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5543
+$wiersz[\'imie_zam\']: Koszyk
+$wiersz[\'nazwisko_zam\']: Koszyk
+$wiersz[\'email_zam\']: Koszyk@ghj.l
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: Koszyk
+$wiersz[\'miasto_zam\']: Koszyk
+$wiersz[\'kod_pocztowy_zam\']: 45
+Wojewodztwo: lubelskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 519.97
+PLN= PLN
+Zamówienie nr.5543= Zamówienie nr 5543
+Koszyk.Koszyk= Koszyk Koszyk
+email= Koszyk@ghj.l
+ip= 89.64.20.18
+street_house= Koszyk
+city= Koszyk
+state= lubelskie
+zip= 45
+country_code= PL
+card_number= 4111111111111
+expiration_month= 07
+expiration_year= 2023
+name_on_card= fgg
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 411, 
+Error description: Card number format is not valid.
+DATA: 05-12-2018 13:09:46, IP: 89.64.20.18
+$kwota_laczna: 519.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 3
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 04
+Rok: 2022
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5543
+$wiersz[\'imie_zam\']: Koszyk
+$wiersz[\'nazwisko_zam\']: Koszyk
+$wiersz[\'email_zam\']: Koszyk@ghj.l
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: Koszyk
+$wiersz[\'miasto_zam\']: Koszyk
+$wiersz[\'kod_pocztowy_zam\']: 45
+Wojewodztwo: lubelskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 519.97
+PLN= PLN
+Zamówienie nr.5543= Zamówienie nr 5543
+Koszyk.Koszyk= Koszyk Koszyk
+email= Koszyk@ghj.l
+ip= 89.64.20.18
+street_house= Koszyk
+city= Koszyk
+state= lubelskie
+zip= 45
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 04
+expiration_year= 2022
+name_on_card= Fddd
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 419, 
+Error description: Cardholder e-mail is not valid.
+DATA: 05-12-2018 13:17:04, IP: 89.64.20.18
+$kwota_laczna: 519.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 3
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 08
+Rok: 2019
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5543
+$wiersz[\'imie_zam\']: Koszyk
+$wiersz[\'nazwisko_zam\']: Koszyk
+$wiersz[\'email_zam\']: Koszyk@ghj.lo
+$wiersz[\'ip_zam\']: 89.64.20.18
+$wiersz[\'adres1_zam\']: Koszyk
+$wiersz[\'miasto_zam\']: Koszyk
+$wiersz[\'kod_pocztowy_zam\']: 45
+Wojewodztwo: lubelskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 519.97
+PLN= PLN
+Zamówienie nr.5543= Zamówienie nr 5543
+Koszyk.Koszyk= Koszyk Koszyk
+email= Koszyk@ghj.lo
+ip= 89.64.20.18
+street_house= Koszyk
+city= Koszyk
+state= lubelskie
+zip= 45
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 08
+expiration_year= 2019
+name_on_card= Fer Bghjk
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 11-12-2018 23:10:39, IP: 89.64.20.18
+$kwota_laczna: 
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' rabat_kwota=, koszt_wysylki_kwota= where id=0' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 
+
+$kraj_zam_id: 
+$country_code: 
+Nr karty: 
+Mies: 
+Rok: 
+CVV: 
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 
+$wiersz[\'imie_zam\']: 
+$wiersz[\'nazwisko_zam\']: 
+$wiersz[\'email_zam\']: 
+$wiersz[\'ip_zam\']: 
+$wiersz[\'adres1_zam\']: 
+$wiersz[\'miasto_zam\']: 
+$wiersz[\'kod_pocztowy_zam\']: 
+Wojewodztwo: none
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 
+PLN= PLN
+Zamówienie nr.= Zamówienie nr 
+.=  
+email= 
+ip= 89.64.20.18
+street_house= 
+city= 
+state= none
+zip= 
+country_code= 
+card_number= 
+expiration_month= 
+expiration_year= 
+name_on_card= 
+card_code= 
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 400, 
+Error description: Field: 'amount' is not set
+DATA: 12-12-2018 13:44:56, IP: 89.64.21.102
+$kwota_laczna: 
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' rabat_kwota=, koszt_wysylki_kwota= where id=0' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 
+
+$kraj_zam_id: 
+$country_code: 
+Nr karty: 
+Mies: 
+Rok: 
+CVV: 
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 
+$wiersz[\'imie_zam\']: 
+$wiersz[\'nazwisko_zam\']: 
+$wiersz[\'email_zam\']: 
+$wiersz[\'ip_zam\']: 
+$wiersz[\'adres1_zam\']: 
+$wiersz[\'miasto_zam\']: 
+$wiersz[\'kod_pocztowy_zam\']: 
+Wojewodztwo: none
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 
+PLN= PLN
+Zamówienie nr.= Zamówienie nr 
+.=  
+email= 
+ip= 89.64.21.102
+street_house= 
+city= 
+state= none
+zip= 
+country_code= 
+card_number= 
+expiration_month= 
+expiration_year= 
+name_on_card= 
+card_code= 
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 400, 
+Error description: Field: 'amount' is not set
+DATA: 12-12-2018 15:27:12, IP: 89.64.21.102
+$kwota_laczna: 
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' rabat_kwota=, koszt_wysylki_kwota= where id=0' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 
+
+$kraj_zam_id: 
+$country_code: 
+Nr karty: 
+Mies: 
+Rok: 
+CVV: 
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 
+$wiersz[\'imie_zam\']: 
+$wiersz[\'nazwisko_zam\']: 
+$wiersz[\'email_zam\']: 
+$wiersz[\'ip_zam\']: 
+$wiersz[\'adres1_zam\']: 
+$wiersz[\'miasto_zam\']: 
+$wiersz[\'kod_pocztowy_zam\']: 
+Wojewodztwo: none
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 
+PLN= PLN
+Zamówienie nr.= Zamówienie nr 
+.=  
+email= 
+ip= 89.64.21.102
+street_house= 
+city= 
+state= none
+zip= 
+country_code= 
+card_number= 
+expiration_month= 
+expiration_year= 
+name_on_card= 
+card_code= 
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 400, 
+Error description: Field: 'amount' is not set
+DATA: 13-12-2018 00:22:11, IP: 89.64.21.102
+$kwota_laczna: 
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' rabat_kwota=, koszt_wysylki_kwota= where id=0' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 
+
+$kraj_zam_id: 
+$country_code: 
+Nr karty: 
+Mies: 
+Rok: 
+CVV: 
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 
+$wiersz[\'imie_zam\']: 
+$wiersz[\'nazwisko_zam\']: 
+$wiersz[\'email_zam\']: 
+$wiersz[\'ip_zam\']: 
+$wiersz[\'adres1_zam\']: 
+$wiersz[\'miasto_zam\']: 
+$wiersz[\'kod_pocztowy_zam\']: 
+Wojewodztwo: none
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 
+PLN= PLN
+Zamówienie nr.= Zamówienie nr 
+.=  
+email= 
+ip= 89.64.21.102
+street_house= 
+city= 
+state= none
+zip= 
+country_code= 
+card_number= 
+expiration_month= 
+expiration_year= 
+name_on_card= 
+card_code= 
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 400, 
+Error description: Field: 'amount' is not set
+DATA: 13-12-2018 15:32:30, IP: 89.64.21.217
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 9
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 09
+Rok: 2022
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5547
+$wiersz[\'imie_zam\']: ehee
+$wiersz[\'nazwisko_zam\']: dfdg
+$wiersz[\'email_zam\']: egdff@ghn.vo
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: dgd
+$wiersz[\'miasto_zam\']: hdgh
+$wiersz[\'kod_pocztowy_zam\']: 3445
+Wojewodztwo: podkarpackie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5547= Zamówienie nr 5547
+ehee.dfdg= ehee dfdg
+email= egdff@ghn.vo
+ip= 89.64.21.217
+street_house= dgd
+city= hdgh
+state= podkarpackie
+zip= 3445
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 09
+expiration_year= 2022
+name_on_card= thg
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 13-12-2018 20:07:20, IP: 81.219.46.20
+$kwota_laczna: 339.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 7
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1112
+Mies: 04
+Rok: 2021
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5548
+$wiersz[\'imie_zam\']: Michał
+$wiersz[\'nazwisko_zam\']: Jakubowski
+$wiersz[\'email_zam\']: m.jakubowski@easycall.pl
+$wiersz[\'ip_zam\']: 81.219.46.20
+$wiersz[\'adres1_zam\']: Młodzieżowa 7/40
+$wiersz[\'miasto_zam\']: Nowy Dwór Mazowiecki
+$wiersz[\'kod_pocztowy_zam\']: 05-101
+Wojewodztwo: mazowieckie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 339.97
+PLN= PLN
+Zamówienie nr.5548= Zamówienie nr 5548
+Michał.Jakubowski= Michał Jakubowski
+email= m.jakubowski@easycall.pl
+ip= 81.219.46.20
+street_house= Młodzieżowa 7/40
+city= Nowy Dwór Mazowiecki
+state= mazowieckie
+zip= 05-101
+country_code= PL
+card_number= 4111111111111112
+expiration_month= 04
+expiration_year= 2021
+name_on_card= Jan Kowalski
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 411, 
+Error description: Card number format is not valid.
+DATA: 13-12-2018 20:07:28, IP: 81.219.46.20
+$kwota_laczna: 339.97
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 7
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 04
+Rok: 2021
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5548
+$wiersz[\'imie_zam\']: Michał
+$wiersz[\'nazwisko_zam\']: Jakubowski
+$wiersz[\'email_zam\']: m.jakubowski@easycall.pl
+$wiersz[\'ip_zam\']: 81.219.46.20
+$wiersz[\'adres1_zam\']: Młodzieżowa 7/40
+$wiersz[\'miasto_zam\']: Nowy Dwór Mazowiecki
+$wiersz[\'kod_pocztowy_zam\']: 05-101
+Wojewodztwo: mazowieckie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 339.97
+PLN= PLN
+Zamówienie nr.5548= Zamówienie nr 5548
+Michał.Jakubowski= Michał Jakubowski
+email= m.jakubowski@easycall.pl
+ip= 81.219.46.20
+street_house= Młodzieżowa 7/40
+city= Nowy Dwór Mazowiecki
+state= mazowieckie
+zip= 05-101
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 04
+expiration_year= 2021
+name_on_card= Jan Kowalski
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 13-12-2018 20:08:11, IP: 81.219.46.20
+$kwota_laczna: 269.98
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 7
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1112
+Mies: 03
+Rok: 2020
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5548
+$wiersz[\'imie_zam\']: Michał
+$wiersz[\'nazwisko_zam\']: Jakubowski
+$wiersz[\'email_zam\']: m.jakubowski@easycall.pl
+$wiersz[\'ip_zam\']: 81.219.46.20
+$wiersz[\'adres1_zam\']: Młodzieżowa 7/40
+$wiersz[\'miasto_zam\']: Nowy Dwór Mazowiecki
+$wiersz[\'kod_pocztowy_zam\']: 05-A123
+Wojewodztwo: mazowieckie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 269.98
+PLN= PLN
+Zamówienie nr.5548= Zamówienie nr 5548
+Michał.Jakubowski= Michał Jakubowski
+email= m.jakubowski@easycall.pl
+ip= 81.219.46.20
+street_house= Młodzieżowa 7/40
+city= Nowy Dwór Mazowiecki
+state= mazowieckie
+zip= 05-A123
+country_code= PL
+card_number= 4111111111111112
+expiration_month= 03
+expiration_year= 2020
+name_on_card= Michał Jakubowski
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 411, 
+Error description: Card number format is not valid.
+DATA: 13-12-2018 20:10:09, IP: 81.219.46.20
+$kwota_laczna: 659.95
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 7
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 05
+Rok: 2022
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5548
+$wiersz[\'imie_zam\']: Michał
+$wiersz[\'nazwisko_zam\']: Jakubowski
+$wiersz[\'email_zam\']: m.jakubowski@easycall.pl
+$wiersz[\'ip_zam\']: 81.219.46.20
+$wiersz[\'adres1_zam\']: Młodzieżowa 7/40
+$wiersz[\'miasto_zam\']: Nowy Dwór Mazowiecki
+$wiersz[\'kod_pocztowy_zam\']: 05-A123
+Wojewodztwo: mazowieckie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5548= Zamówienie nr 5548
+Michał.Jakubowski= Michał Jakubowski
+email= m.jakubowski@easycall.pl
+ip= 81.219.46.20
+street_house= Młodzieżowa 7/40
+city= Nowy Dwór Mazowiecki
+state= mazowieckie
+zip= 05-A123
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 05
+expiration_year= 2022
+name_on_card= Michał Jakubowski
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok
+
+DATA: 13-12-2018 21:29:37, IP: 89.64.21.217
+$kwota_laczna: 659.95
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 11
+Mies: 07
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5549
+$wiersz[\'imie_zam\']: teST
+$wiersz[\'nazwisko_zam\']: teST
+$wiersz[\'email_zam\']: teST@GH.VK
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: teST
+$wiersz[\'miasto_zam\']: teST
+$wiersz[\'kod_pocztowy_zam\']: 455
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5549= Zamówienie nr 5549
+teST.teST= teST teST
+email= teST@GH.VK
+ip= 89.64.21.217
+street_house= teST
+city= teST
+state= śląskie
+zip= 455
+country_code= PL
+card_number= 411111
+expiration_month= 07
+expiration_year= 2023
+name_on_card= dhddh
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 411, 
+Error description: Card number format is not valid.
+DATA: 13-12-2018 21:53:14, IP: 89.64.21.217
+$kwota_laczna: 659.95
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' koszt_wysylki_kwota= where id=5549' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 11
+Mies: 07
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5549
+$wiersz[\'imie_zam\']: teST
+$wiersz[\'nazwisko_zam\']: teST
+$wiersz[\'email_zam\']: teST@GH.VK
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: teST
+$wiersz[\'miasto_zam\']: teST
+$wiersz[\'kod_pocztowy_zam\']: 455
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5549= Zamówienie nr 5549
+teST.teST= teST teST
+email= teST@GH.VK
+ip= 89.64.21.217
+street_house= teST
+city= teST
+state= śląskie
+zip= 455
+country_code= PL
+card_number= 
+expiration_month= 07
+expiration_year= 2023
+name_on_card= dhddh
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 503, 
+Error description: Payment method - not allowed for this account.
+DATA: 13-12-2018 21:54:00, IP: 89.64.21.217
+$kwota_laczna: 659.95
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' koszt_wysylki_kwota= where id=5549' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 11
+Mies: 07
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5549
+$wiersz[\'imie_zam\']: teST
+$wiersz[\'nazwisko_zam\']: teST
+$wiersz[\'email_zam\']: teST@GH.VK
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: teST
+$wiersz[\'miasto_zam\']: teST
+$wiersz[\'kod_pocztowy_zam\']: 455
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5549= Zamówienie nr 5549
+teST.teST= teST teST
+email= teST@GH.VK
+ip= 89.64.21.217
+street_house= teST
+city= teST
+state= śląskie
+zip= 455
+country_code= PL
+card_number= 
+expiration_month= 07
+expiration_year= 2023
+name_on_card= dhddh
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 503, 
+Error description: Payment method - not allowed for this account.
+DATA: 13-12-2018 21:54:18, IP: 89.64.21.217
+$kwota_laczna: 659.95
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' koszt_wysylki_kwota= where id=5549' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 11
+Mies: 07
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5549
+$wiersz[\'imie_zam\']: teST
+$wiersz[\'nazwisko_zam\']: teST
+$wiersz[\'email_zam\']: teST@GH.VK
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: teST
+$wiersz[\'miasto_zam\']: teST
+$wiersz[\'kod_pocztowy_zam\']: 455
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5549= Zamówienie nr 5549
+teST.teST= teST teST
+email= teST@GH.VK
+ip= 89.64.21.217
+street_house= teST
+city= teST
+state= śląskie
+zip= 455
+country_code= PL
+card_number= 
+expiration_month= 07
+expiration_year= 2023
+name_on_card= dhddh
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 503, 
+Error description: Payment method - not allowed for this account.
+DATA: 13-12-2018 21:54:46, IP: 89.64.21.217
+$kwota_laczna: 659.95
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' koszt_wysylki_kwota= where id=5549' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 11
+Mies: 07
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5549
+$wiersz[\'imie_zam\']: teST
+$wiersz[\'nazwisko_zam\']: teST
+$wiersz[\'email_zam\']: teST@GH.VK
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: teST
+$wiersz[\'miasto_zam\']: teST
+$wiersz[\'kod_pocztowy_zam\']: 455
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5549= Zamówienie nr 5549
+teST.teST= teST teST
+email= teST@GH.VK
+ip= 89.64.21.217
+street_house= teST
+city= teST
+state= śląskie
+zip= 455
+country_code= PL
+card_number= 
+expiration_month= 07
+expiration_year= 2023
+name_on_card= dhddh
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 503, 
+Error description: Payment method - not allowed for this account.
+DATA: 13-12-2018 21:55:06, IP: 89.64.21.217
+$kwota_laczna: 659.95
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' koszt_wysylki_kwota= where id=5549' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 11
+Mies: 07
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5549
+$wiersz[\'imie_zam\']: teST
+$wiersz[\'nazwisko_zam\']: teST
+$wiersz[\'email_zam\']: teST@GH.VK
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: teST
+$wiersz[\'miasto_zam\']: teST
+$wiersz[\'kod_pocztowy_zam\']: 455
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5549= Zamówienie nr 5549
+teST.teST= teST teST
+email= teST@GH.VK
+ip= 89.64.21.217
+street_house= teST
+city= teST
+state= śląskie
+zip= 455
+country_code= PL
+card_number= 
+expiration_month= 07
+expiration_year= 2023
+name_on_card= dhddh
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 503, 
+Error description: Payment method - not allowed for this account.
+DATA: 13-12-2018 21:56:43, IP: 89.64.21.217
+$kwota_laczna: 659.95
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' koszt_wysylki_kwota= where id=5549' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 11
+Mies: 07
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5549
+$wiersz[\'imie_zam\']: teST
+$wiersz[\'nazwisko_zam\']: teST
+$wiersz[\'email_zam\']: teST@GH.VK
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: teST
+$wiersz[\'miasto_zam\']: teST
+$wiersz[\'kod_pocztowy_zam\']: 455
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5549= Zamówienie nr 5549
+teST.teST= teST teST
+email= teST@GH.VK
+ip= 89.64.21.217
+street_house= teST
+city= teST
+state= śląskie
+zip= 455
+country_code= PL
+card_number= 
+expiration_month= 07
+expiration_year= 2023
+name_on_card= dhddh
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 503, 
+Error description: Payment method - not allowed for this account.
+DATA: 13-12-2018 22:00:11, IP: 89.64.21.217
+$kwota_laczna: 659.95
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' koszt_wysylki_kwota= where id=5549' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 11
+Mies: 07
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5549
+$wiersz[\'imie_zam\']: teST
+$wiersz[\'nazwisko_zam\']: teST
+$wiersz[\'email_zam\']: teST@GH.VK
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: teST
+$wiersz[\'miasto_zam\']: teST
+$wiersz[\'kod_pocztowy_zam\']: 455
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5549= Zamówienie nr 5549
+teST.teST= teST teST
+email= teST@GH.VK
+ip= 89.64.21.217
+street_house= teST
+city= teST
+state= śląskie
+zip= 455
+country_code= PL
+card_number= 
+expiration_month= 07
+expiration_year= 2023
+name_on_card= dhddh
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 503, 
+Error description: Payment method - not allowed for this account.
+DATA: 13-12-2018 22:00:32, IP: 89.64.21.217
+$kwota_laczna: 659.95
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' koszt_wysylki_kwota= where id=5549' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 11
+Mies: 07
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5549
+$wiersz[\'imie_zam\']: teST
+$wiersz[\'nazwisko_zam\']: teST
+$wiersz[\'email_zam\']: teST@GH.VK
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: teST
+$wiersz[\'miasto_zam\']: teST
+$wiersz[\'kod_pocztowy_zam\']: 455
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5549= Zamówienie nr 5549
+teST.teST= teST teST
+email= teST@GH.VK
+ip= 89.64.21.217
+street_house= teST
+city= teST
+state= śląskie
+zip= 455
+country_code= PL
+card_number= 
+expiration_month= 07
+expiration_year= 2023
+name_on_card= dhddh
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 503, 
+Error description: Payment method - not allowed for this account.
+DATA: 13-12-2018 22:00:35, IP: 89.64.21.217
+$kwota_laczna: 659.95
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' koszt_wysylki_kwota= where id=5549' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 11
+Mies: 07
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5549
+$wiersz[\'imie_zam\']: teST
+$wiersz[\'nazwisko_zam\']: teST
+$wiersz[\'email_zam\']: teST@GH.VK
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: teST
+$wiersz[\'miasto_zam\']: teST
+$wiersz[\'kod_pocztowy_zam\']: 455
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5549= Zamówienie nr 5549
+teST.teST= teST teST
+email= teST@GH.VK
+ip= 89.64.21.217
+street_house= teST
+city= teST
+state= śląskie
+zip= 455
+country_code= PL
+card_number= 
+expiration_month= 07
+expiration_year= 2023
+name_on_card= dhddh
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 503, 
+Error description: Payment method - not allowed for this account.
+DATA: 13-12-2018 22:00:43, IP: 89.64.21.217
+$kwota_laczna: 659.95
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' koszt_wysylki_kwota= where id=5549' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 11
+Mies: 07
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5549
+$wiersz[\'imie_zam\']: teST
+$wiersz[\'nazwisko_zam\']: teST
+$wiersz[\'email_zam\']: teST@GH.VK
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: teST
+$wiersz[\'miasto_zam\']: teST
+$wiersz[\'kod_pocztowy_zam\']: 455
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5549= Zamówienie nr 5549
+teST.teST= teST teST
+email= teST@GH.VK
+ip= 89.64.21.217
+street_house= teST
+city= teST
+state= śląskie
+zip= 455
+country_code= PL
+card_number= 
+expiration_month= 07
+expiration_year= 2023
+name_on_card= dhddh
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 503, 
+Error description: Payment method - not allowed for this account.
+DATA: 13-12-2018 22:01:06, IP: 89.64.21.217
+$kwota_laczna: 659.95
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' koszt_wysylki_kwota= where id=5549' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 11
+Mies: 07
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5549
+$wiersz[\'imie_zam\']: teST
+$wiersz[\'nazwisko_zam\']: teST
+$wiersz[\'email_zam\']: teST@GH.VK
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: teST
+$wiersz[\'miasto_zam\']: teST
+$wiersz[\'kod_pocztowy_zam\']: 455
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5549= Zamówienie nr 5549
+teST.teST= teST teST
+email= teST@GH.VK
+ip= 89.64.21.217
+street_house= teST
+city= teST
+state= śląskie
+zip= 455
+country_code= PL
+card_number= 
+expiration_month= 07
+expiration_year= 2023
+name_on_card= dhddh
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 503, 
+Error description: Payment method - not allowed for this account.
+DATA: 13-12-2018 22:01:38, IP: 89.64.21.217
+$kwota_laczna: 659.95
+$rabat: 
+$koszt_wysylki: 
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' koszt_wysylki_kwota= where id=5549' at line 1
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 11
+Mies: 07
+Rok: 2023
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5549
+$wiersz[\'imie_zam\']: teST
+$wiersz[\'nazwisko_zam\']: teST
+$wiersz[\'email_zam\']: teST@GH.VK
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: teST
+$wiersz[\'miasto_zam\']: teST
+$wiersz[\'kod_pocztowy_zam\']: 455
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5549= Zamówienie nr 5549
+teST.teST= teST teST
+email= teST@GH.VK
+ip= 89.64.21.217
+street_house= teST
+city= teST
+state= śląskie
+zip= 455
+country_code= PL
+card_number= 
+expiration_month= 07
+expiration_year= 2023
+name_on_card= dhddh
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+Error ID: , 
+Error number: 503, 
+Error description: Payment method - not allowed for this account.
+DATA: 13-12-2018 22:03:04, IP: 89.64.21.217
+$kwota_laczna: 659.95
+$rabat: 0
+$koszt_wysylki: 19.99
+
+
+$wiersz[\'wojewodztwo_zam_id\']: 12
+
+
+$kraj_zam_id: 1
+$country_code: PL
+Nr karty: 4111 1111 1111 1111
+Mies: 01
+Rok: 2019
+CVV: 123
+$waluta_pp: PLN
+$tytul_zam: Zamówienie nr
+$wiersz[\'id\']: 5549
+$wiersz[\'imie_zam\']: teST
+$wiersz[\'nazwisko_zam\']: teST
+$wiersz[\'email_zam\']: teST@GH.VK
+$wiersz[\'ip_zam\']: 89.64.21.217
+$wiersz[\'adres1_zam\']: teST
+$wiersz[\'miasto_zam\']: teST
+$wiersz[\'kod_pocztowy_zam\']: 455
+Wojewodztwo: śląskie
+
+=======DANE KARTY (CARD_PARAMS) PRZYGOTOWANE DLA WYSYLKI========
+kwota_laczna= 659.95
+PLN= PLN
+Zamówienie nr.5549= Zamówienie nr 5549
+teST.teST= teST teST
+email= teST@GH.VK
+ip= 89.64.21.217
+street_house= teST
+city= teST
+state= śląskie
+zip= 455
+country_code= PL
+card_number= 4111111111111111
+expiration_month= 01
+expiration_year= 2019
+name_on_card= fdsfsf
+card_code= 123
+=======KONIEC DANE KARTY (CARD_PARAMS)========
+
+karta polaczenie ok
+karta sprzedaz ok
+karta weryfikacja ok

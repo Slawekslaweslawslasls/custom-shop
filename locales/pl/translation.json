@@ -1,0 +1,373 @@
+{
+    "baza": {
+	"mezczyzna": "Mężczyzna",
+	"kobieta": "Kobieta",
+	"bezrekawnik": "Tank Top",
+	"rekawnik": "T-Shirt",
+	"bialy": "Biały",
+	"czarny": "Czarny",
+	"paypal": "PayPal",
+	"dostepny": "Produkt dostępny w magazynie",
+	"karta_kredytowa": "Karta kredytowa",
+	"koszulka": {
+		"nazwa": "Koszulka"
+	},
+	"saszetka": {
+	    "nazwa": "Saszetka",
+	    "opis": "Saszetka na pasku do mocowania sterownika."
+	},
+	"etapy": {
+	    "wybrano_towary": "Wybrano towary.",
+	    "podano_dane_zamawiajacego": "Podano dane zamawiającego.",
+	    "podano_dane_do_wysylki": "Podano dane do wysyłki",
+	    "zamowienie_przyjeto_do_realizacji": "Zamówienie przyjęto do realizacji.",
+	    "zamowienie_zostalo_potwierdzone": "Zamówienie zostało potwierdzone.",
+	    "potwierdzono_platnosc": "Potwierdzono płatność.",
+	    "przesylka_zostala_wyslana": "Przesyłka została wysłana.",
+	    "zamowienie_anulowano": "Zamówienie anulowano.",
+	    "zamowienie_wyslano": "Zamówienie wysłano."
+	},
+	"rozmiary": {
+		"small": "Small",
+		"medium": "Medium",
+		"large": "Large",
+		"extra_large": "Extra large",
+		"extra_extra_large": "Extra extra large",
+		"s": "S",
+		"m": "M",
+		"l": "L",
+		"xl": "XL",
+		"xxl": "XXL",
+		"calosc": {
+			"extra_small": "XS",
+			"small": "S",
+			"medium": "M",
+			"large": "L",
+			"extra_large": "XL",
+			"extra_extra_large": "XXL",
+			"extra_extra_extra_large": "XXXL"
+		}
+	},
+	"wymiary": {
+		"m_s_a": "68",
+		"m_s_b": "44",
+		"m_s_c": "37",
+		"m_m_a": "68",
+		"m_m_b": "44",
+		"m_m_c": "40",
+		"m_l_a": "70",
+		"m_l_b": "47",
+		"m_l_c": "40",
+		"m_xl_a": "70",
+		"m_xl_b": "53",
+		"m_xl_c": "45",		
+		"m_xxl_a": "72",
+		"m_xxl_b": "56",
+		"m_xxl_c": "48",		
+		"m_xxxl_a": "72",
+		"m_xxxl_b": "63",
+		"m_xxxl_c": "59",
+		"k_xs_a": "57",
+		"k_xs_b": "43",
+		"k_xs_c": "35",
+		"k_s_a": "68",
+		"k_s_b": "44",
+		"k_s_c": "37",
+		"k_m_a": "68",
+		"k_m_b": "44",
+		"k_m_c": "37",
+		"k_l_a": "70",
+		"k_l_b": "47",
+		"k_l_c": "40",
+		"k_xl_a": "70",
+		"k_xl_b": "53",
+		"k_xl_c": "45",		
+		"k_xxl_a": "72",
+		"k_xxl_b": "56",
+		"k_xxl_c": "48"		
+		},
+		"alt":{
+			"obrduzy_k_2_1": "Alt dla kobiety kolor bialy",
+			"obrduzy_k_2_2": "Alt dla kobiety kolor czarny",
+			"obrduzy_m_1_1": "obrduzy_k_1_1",
+			"obrduzy_m_1_2": "obrduzy_m_1_2",
+			"obrduzy_m_2_1": "obrduzy_m_2_1",
+			"obrduzy_m_2_2": "obrduzy_m_2_2",
+			"obrmaly1_k_2_1": "obrmaly1_k_2_1",
+			"obrmaly1_k_2_2": "obrmaly1_k_2_2",
+			"obrmaly1_m_1_1": "obrmaly1_m_1_1",
+			"obrmaly1_m_1_2": "obrmaly1_m_1_2",
+			"obrmaly1_m_2_1": "obrmaly1_m_2_1",
+			"obrmaly1_m_2_2": "obrmaly1_m_2_2",
+			"obrmaly2_k_2_1": "obrmaly2_k_2_1",
+			"obrmaly2_k_2_2": "obrmaly2_k_2_2",
+			"obrmaly2_m_1_1": "obrmaly2_m_1_1",
+			"obrmaly2_m_1_2": "obrmaly2_m_1_2",
+			"obrmaly2_m_2_1": "obrmaly2_m_2_1",
+			"obrmaly2_m_2_2": "obrmaly2_m_2_2",			
+			"obrmaly3_k_2_1": "obrmaly3_k_2_1",
+			"obrmaly3_k_2_2": "obrmaly3_k_2_2",
+			"obrmaly3_m_1_1": "obrmaly3_m_1_1",
+			"obrmaly3_m_1_2": "obrmaly3_m_1_2",
+			"obrmaly3_m_2_1": "obrmaly3_m_2_1",
+			"obrmaly3_m_2_2": "obrmaly3_m_2_2",
+			"obrmaly4_k_2_1": "obrmaly4_k_2_1",
+			"obrmaly4_k_2_2": "obrmaly4_k_2_2",
+			"obrmaly4_m_1_1": "obrmaly4_m_1_1",
+			"obrmaly4_m_1_2": "obrmaly4_m_1_2",
+			"obrmaly4_m_2_1": "obrmaly4_m_2_1",
+			"obrmaly4_m_2_2": "obrmaly4_m_2_2"
+			}
+    },
+    "firma":{
+	"nazwa": "webska Sp. z o.o.",
+	"ulica": "ul. K. I. Gałczyńskiego 4",
+	"kod": "00-362",
+	"miasto": "Warszawa",
+	"telefon": "",
+	"email": "pomoc@lvadshirt.com",
+	"memail": "mailto:pomoc@lvadshirt.com"
+    },
+    "menu": {
+	"stronaglowna": "Strona główna",
+	"pytania": "Pytania",
+	"kontakt": "Kontakt",
+	"koszyk": "Koszyk",
+	"jestpusty": "jest pusty",
+	"szt": "szt",
+	"altkoszyk": "koszyk"
+    },
+    "naw": {
+	"stronaglowna": "Strona główna",
+	"wyborproduktu": "Wybór produktu",
+	"koszyk": "Koszyk",
+	"daneklienta": "Dane klienta",
+	"wysylka": "Dane wysyłki",
+	"podsumowanie": "Podsumowanie",
+	"status": "Status",
+	"pytania": "Pytania",
+	"kontakt": "Kontakt",
+	"politykaprywatnosci": "Polityka prywatności",
+	"regulamin": "Regulamin"
+    },
+    "opis1": {
+    "1": "Wygodna i dyskretna koszulka dla osób z wszczepioną pompą LVAD (Left Ventricular Assist Device) HeartMate"
+        },
+    "opis2": {
+        "naglowek": "",
+    "tresc": "Wszczepialna pompa to dla chorych na niewydolność serca szansa na nowe życie. Coraz powszechniejsze staje się używanie pomp o ciągłym przepływie - <b>HeartMate 2</b> oraz <b>HeartMate 3</b>. Noszenie w torbie <b>urządzenia wspierającego pracę serca</b> bywa jednak uciążliwe i nie zawsze bezpieczne - bagaż zwraca uwagę innych osób, jest ciężki i niewygodny, utrudnia codzienne czynności, jak choćby podróżowanie. Alternatywą jest <b>LVAD shirt</b> – koszulka, dzięki której wszczepiona pompa będzie przy Tobie, bezpiecznie schowana, a noszenie baterii - dyskretne i pozbawione zbędnego ryzyka.<br/><br/>Dlaczego warto mieć <b>koszulkę LVAD?</b><ul><li>Lekka, elastyczna, przyjemna dla skóry tkanina, wzorowana swoim składem na ubraniach dla sportowców (92% spandex, 8% bawełna). Materiał bardzo dobrze odprowadza wilgoć i szybko schnie.</li><li>Wyposażona w kieszenie z zaczepami, w których bezpiecznie schowasz baterie, a jednocześnie równomiernie rozłożysz ich ciężar. Koniec z bólem ramion i pleców, który towarzyszył Ci przy noszeniu <b>pompy serca</b> w torbie.</li><li><b>Koszulka LVAD</b> jest uniwersalna - możesz nosić ją z przewodem pompy wyprowadzanym zarówno z prawej, jak i z lewej strony. </li><li>Dyskretna w 100%. <b>Ubrania LVAD</b> mają głęboki dekolt, są w neutralnym kolorze i bez zwracających uwagi nadruków. Możesz nosić je pod swetrem czy marynarką – nie będą się odznaczać, łatwo dopasujesz je swojego ubioru.</li><li>Zaprojektowana specjalnie dla osób żyjących z wszczepioną pompą <b>LVAD HeartMate II</b> albo <b>HeartMate III</b> przez pacjentów chorujących na niewydolność serca i ekspertów VAD.</li></ul><br/><b>Ubrania LVAD</b> sprawdzają się idealnie, niezależnie od sytuacji – możesz zakładać je na co dzień, do pracy lub na czas podróży. Noszą je pacjenci w 18 krajach na świecie, którzy docenili komfort, jaki <b>kamizelka LVAD</b> zapewnia im w codziennym życiu."
+    },
+    "index": {
+	"dodajdokoszyka": "Dodaj do koszyka",
+	"rozmiarykoszulekmeskich": "Rozmiary koszulek <span>męskich</span>",
+	"rozmiarykoszulekdamskich": "Rozmiary koszulek <span>damskich</span>",
+	"legenda1": "A - długość boku [cm]<br>B - obwód biustu [cm]<br>C - obwód pasa [cm]",
+	"legenda2": "A - długość boku [cm]<br>B - obwód biustu [cm]<br>C - obwód talii/pasa [cm]",
+	"oddychajacatkanina": "Oddychająca tkanina",
+	"wygodnekieszenie": "Wygodne kieszenie na baterie",
+	"oddychajacatkaninaopis": "Oddychająca tkanina",
+	"wygodnekieszenieopis": "Wygodne kieszenie na baterie",
+	"niewidocznypodubraniami": "Niewidoczny pod innymi ubraniami duży dekolt",
+	"niewidocznypodubraniamiopis": "Niewidoczny pod ubraniami duży dekolt",
+	"produktpolecany": "Produkt polecany przez Stowarzyszenie VAD Polska",
+	"opinieklientow": "Opinie klientów",
+	"altrozmiarowkameska": "Rozmiarówka meska",
+	"altrozmiarowkadamska": "Rozmiarówka damska"
+    },
+    "stopka": {
+	"stronaglowna": "STRONA GŁÓWNA",
+	"regulamin": "REGULAMIN",
+	"politykaprywatnosci": "POLITYKA PRYWATNOŚCI",
+	"pytania": "PYTANIA",
+	"kontakt": "KONTAKT",
+	"blog": "BLOG",
+	"o_nas": "O NAS",
+	"altemail": "Email",
+	"altlogaplatnosc": "Loga płatność"
+    },
+    "koszyk": {
+	"zdjecie": "Zdjęcie",
+	"produkt": "Produkt",
+	"ilosc": "Ilość",
+	"dozaplaty": "Do zapłaty",
+	"usun": "Usuń",
+	"typ": "Typ:",
+	"plec": "Płeć:",
+	"rozmiar": "Rozmiar:",
+	"kolor": "Kolor:",
+	"wybierzkrajwysylki": "Wybierz kraj wysyłki:",
+	"kosztwysylki": "Koszt wysyłki:",
+	"kodrabatowy": "Kod rabatowy:",
+	"zastosuj": "ZASTOSUJ",
+	"zamawiam": "ZAMAWIAM",
+	"wpiszkod": "Wpisz kod",
+	"dokoszyka": "DO KOSZYKA",
+	"lacznakwota": "Łączna kwota:",
+	"uwagablednykod": "Uwaga: błędny kod!",
+	"uwagakodjuzwykorzystano": "Uwaga: zastosowano już rabat!",
+	"twojkoszykjestpusty": "Twój koszyk <span>jest pusty</span>",
+	"przejdzdostronyglownej": "Przejdź do strony głównej",
+	"altpusty": "Koszyk pusty",
+	"altusun": "Usun",
+	"altzdjecieproduktu": "Zdjecie produktu",
+	"promocjailosciowa": "Promocja ilościowa:",
+	"nazwa": "Koszulka LVAD shirt",
+	"twoja koszulka powloka":"Chcesz aby Twoja koszulka była jeszcze bardziej bezpieczna?",
+	"Kliknij i dowiedz":"Kliknij i dowiedz więcej",
+	"Zamawiam powloke":"Zabezpiecz koszulkę srebrem",
+	"Jak działa powłoka srebra?":"Antybakteryjna powłoka ze srebra",
+	"Tresc":"<h2>Jony srebra w odzieży</h2><h3>Wyjątkowo silnie bakteriobójcze działanie jonów srebra znalazło swoje zastosowanie w przemyśle odzieżowym.</h2><p>Ubrania pokryte powłoką srebra charakteryzują się działaniem bakteriostatycznym, obniżają ryzyko pojawienia się infekcji bakteryjnej i grzybiczej, jak również eliminują ryzyko pojawiania się nieprzyjemnego zapachu. Ubrania zawierające srebro cenią osoby ze skłonnością do alergii skórnych, ponieważ zapobieganie rozwojowi bakterii obniża ryzyko ich wystąpienia. Odzież zawierająca jony srebra może być również pomocna u osób po implantacji mechanicznych urządzeń wspomagających lewą komorę serca (LVAD). Zakażenia bakteryjne przewodu łączącego pompę z baterią zasilającą tzw. drive-line są jednymi z najczęstszych i bardzo groźnych powikłań w procesie długoterminowej terapii i wszelka profilaktyka zapobiegająca rozwojowi bakterii, jak choćby wspomniana specjalna odzież, na której znajduje się srebrna powłoka antybakteryjna, może okazać się pomocnym rozwiązaniem.</p><h2>Antybakteryjne działanie srebra znane jest od wielu lat.</h2><h3>Srebro w różnej postaci z powodzeniem wykorzystuje się przy leczeniu poparzeń czy dezynfekcji wody. Ponadto, opatrunki zawierające srebro często stosowane są po zabiegach operacyjnych celem ochrony rany przez infekcjami bakteryjnymi.</h3><p>Wysoka skuteczność bakteriobójcza jonów srebra bierze się z ich silnego powinowactwa do białek strukturalnych i enzymatycznych komórek bakteryjnych. Prowadząc do denaturacji tych białek, srebro powoduje utratę ich biologicznej aktywności i uniemożliwia funkcjonowanie komórek bakteryjnych. Warto podkreślić, że bakterie bardzo rzadko uodparniają się na srebro, czego nie można powiedzieć o innych środkach o działaniu bakteriobójczym.</p>"
+	
+    },
+    "prawa": {
+	"koszyk": "KOSZYK",
+	"daneklienta": "DANE KLIENTA",
+	"wysylka": "WYSYŁKA",
+	"podsumowanie": "PODSUMOWANIE"
+    },
+    "daneklienta": {
+	"daneklienta": "Dane klienta",
+	"dalej": "dalej"
+	
+    },
+    "dane": {
+	"imie": "Imię",
+	"nazwisko": "Nazwisko",
+	"firma": "Firma",
+	"email": "Email",
+	"adres": "Adres (ulica)",
+	"miejscowosc": "Miejscowość",
+	"wojewodztwo": "Województwo <span>*</span>",
+	"kodpocztowy": "Kod pocztowy",
+	"kraj": "Kraj <span>*</span>",
+	"telefon": "Telefon",
+	"uzupelnijdane": "uzupełnij dane",
+	"podajadres": "podaj adres",
+	"wybierz": "wybierz",
+	"podajtelefon": "podaj telefon",
+	"uwaga": " Uzupełnij pole!",
+	"uwaga-cyfra": " Nieprawidlowy format pola!",
+	"blednedanekarty": "Błędne dane karty!",
+	"imieinazwiskowlascicielakarty": "Imię i nazwisko własciciela karty",
+	"numerkarty": "Numer karty",
+	"kodweryfikacyjnykarty": "Kod weryfikacyjny karty (CVV)",
+	"cvvpomoc": "Kod CVV/CVV2<br>znajdziesz na<br>odwrocie<br>swojej karty.",
+	"datawaznosci": "Data ważnosci:",
+	"miesiac": "Miesiąc <span>*</span>",
+	"rok": "Rok <span>*</span>",
+	"kontaktimieinazwisko": "Imię i nazwisko",
+	"kontaktemail": "E-mail",
+	"kontaktnumertelefonu": "Numer telefonu",
+	"uzupelnijwszystkiepolaformularza": "Uzupełnij wszystkie pola formularza!",
+	"platnoscamericanexpressniedostepna":"Platnosc przez karte American Express niedostepna!"
+    },
+    "wysylka": {
+	"wysylka": "Wysyłka",
+	"danezamawiajacego": "Dane zamawiającego",
+	"wyslijnaadres": "Wyślij na adres:",
+	"zamawiajacego": "Zamawiającego",
+	"wysylkanainnyadres": "Wysyłka na inny adres",
+	"daneadresata": "Dane adresata",
+	"platnosc": "Płatność",
+	"kartakredytowa": "Karta kredytowa",
+	"paypal": "PayPal",
+	"powrotdokoszyka": "Powrót do koszyka",
+	"zamawiam": "ZAMAWIAM",
+	"altvisa": "Visa",
+	"altjcb": "JCB",
+	"altmae": "Maestro",
+	"altae": "American Express",
+	"altdis": "Discover",
+	"altdc": "Diners Club",
+	"altmc": "MasterCard",
+	"altpaypal": "PayPal",
+	"fedex": "czas dostawy 3-7 dni roboczych"
+    },
+    "podsumowanie": {
+	"rabat": "Rabat:",
+	"danezamawiajacego": "Dane zamawiającego:",
+	"adreswysylki": "Adres wysyłki:",
+	"sposobplatnosci": "Sposob płatności:",
+	"potwierdzzakup": "POTWIERDŹ ZAKUP",
+	"daneosobowe": "Wyrażam zgodę na przetwarzanie moich danych osobowych przez Sprzedawcę (webska Sp. z o.o., ul. K.I. Gałczyńskiego 4, 00-362 Warszawa, KRS 435371) w zakresie niezbędnym do prowadzenia marketingu produktów i usług Sprzedawcy zgodnie z ustawą z dnia 29.08.1997 r. o ochronie danych osobowych (Dz. U. z 2002 r., Nr 101, poz. 926 ze zm.). Oświadczam, że zostałem poinformowany, iż przysługuje mi prawo dostępu do treści moich danych oraz możliwość ich poprawiania, a także, że podanie danych jest dobrowolnie. Zgadzam się na otrzymywanie informacji handlowych drogą elektroniczną, zgodnie z ustawą z dnia 18.07.2002 r. o świadczeniu usług drogą elektroniczną.",
+	"regulamin": "Oświadczam, że zapoznałem się z <a href=\"./regulamin.html\">regulaminem</a> sklepu internetowego i akceptuję jego warunki.",
+	"akceptacjaregulaminu": "Akceptacja regulaminu jest konieczna do realizacji zamówienia.",
+	"proszeczekac": "PROSZĘ CZEKAĆ",
+	"proszejeszczeraz":"SPROBUJ JESZCZE RAZ",
+	"wojewodztwo": "woj. ",
+	"firma": "firma: ",
+	"tel": "tel. ",
+	"email": "e-mail: ",
+	"altzdjecieproduktu": "Zdjęcie produktu"
+    },
+    "paypal": {
+	"zamowienienr": "Zamowienie nr"
+    },
+    "zamowienie": {
+	    "potwierdzono_dokonanie_platnosci": "Otrzymaliśmy potwierdzenie Twojej płatności."
+    },
+    "anulowanie": {
+	    "anulowano_dokonanie_platnosci": "Twoja płatność została anulowana."
+    },
+    "status": {
+	"statuszamowienia": "Status zamówienia",
+	"dziekujemy": "Dziękujemy!",
+	"powrotdostronyglownej": "Powrót do strony głównej"
+    },
+    "kontakt": {
+	"kontakt": "Kontakt",
+	"adres": "Adres:",
+	"numertelefonu": "",
+	"email": "E-mail:",
+	"wypelnijformularz": "Wypełnij formularz",
+	"wyslij": "WYŚLIJ",
+	"przejdzdostronyzzakupami": "Przejdź do strony z zakupami",
+	"zobacztakze": "Zobacz także:",
+	"najczesciejzadawanepytania": "Najczęsciej zadawane pytania",
+	"info": "Jeśli masz jakieś pytania bądź wątpliwości wypełnij powyższy formularz albo napisz do nas maila. Dołożymy starań, aby odpisać Ci jak najszybciej (nie dłużej niż w przeciągu 24 godzin).",
+	"dziekujemywiadomosczostalawyslana": "Dziękujemy, wiadomość została wysłana!",
+	"wiadomoscinfo": "Dołożymy starań aby odpowiedzieć jak najszybciej, jednak nie dłużej niż w przeciągu 24 godzin."
+    },
+    "regulamin": {
+	"regulaminsklepuinternetowego": "REGULAMIN SKLEPU INTERNETOWEGO LVADSHIRT.COM",
+	"pobierzregulaminwwersjipdf": "Pobierz regulamin w wersji PDF"
+    },
+    "politykaprywatnosci": {
+	"politykaprywatnoscisklepuinternetowego": "POLITYKA PRYWATNOSCI SKLEPU INTERNETOWEGO LVADSHIRT.COM"
+    },
+    "ciast": {
+	"info": "Informujemy, iż w celu optymalizacji treści dostępnych w naszym  serwisie, dostosowania ich do Państwa indywidualnych potrzeb korzystamy  z informacji zapisanych za pomocą plików cookies na urządzeniach końcowych użytkowników. Pliki cookies użytkownik może kontrolować za pomocą ustawień swojej przeglądarki internetowej. Dalsze korzystanie z naszego serwisu internetowego, bez zmiany ustawień przeglądarki internetowej oznacza, iż użytkownik akceptuje stosowanie plików cookies. Więcej informacji zawartych jest w <a href=\"./polityka-prywatnosci.html\">Polityce prywatności.</a>"
+    },
+	"zalaczniki": {
+		"zal_odstapienie": "Wzor_formularza_odstapienia_od_umowy",
+		"zal_regulamin": "Regulamin"
+	},
+	"mail":{
+		"tel": "tel.",
+		"wiadomosc_od": "Wiadomość od",
+		"nowe_zamowienie": "[LVADshirt.com] Nowe zamówienie",
+		"potwierdzono_platnosc": "[LVADshirt.com] Potwierdzono płatność za zamówienie",
+		"potwierdzono_wysylke": "[LVADshirt.com] Potwierdzenie wysłania zamówienia",
+		"zamowienienr": "Zamówienie nr",
+		"kolor": "Kolor:",
+		"Fedex": "Wiadomosc od Fedex: mamy dla was przesylke",
+		"Rabat": "Twój kod rabatowy na koszulkę LVAD"
+	},
+	"newsletter": {
+		"zapiszsiedonewslettera": "Zapisz sie do newslettera",
+		"iotrzymaj10procentrabatu": "i otrzymaj 10% rabatu!",
+		"email": "E-mail",
+		"wyslij": "WYŚLIJ",
+		"dziekujemy": "Dziękujemy!",
+		"twojadresemail": "Twój adres email został poprawnie dodany"
+	},
+	"push": {
+    	    "actionMessage": "Chcielibyśmy wyświetlać Ci specjalne oferty oraz informacje o pompach LVAD.",
+    	    "acceptButtonText": "OBSERWUJ",
+    	    "cancelButtonText": "NIE, DZIĘKUJĘ"
+	},
+	"mailsettings":{
+			"mail":"d.m.Y"
+
+	}
+}
